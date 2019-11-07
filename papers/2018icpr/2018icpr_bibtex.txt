@@ -1,0 +1,8 @@
+@inproceedings{sun2018part,
+  title={Part-based Multi-stream Model for Vehicle Searching},
+  author={Sun, Ya and Li, Minxian and Lu, Jianfeng},
+  booktitle={2018 24th International Conference on Pattern Recognition (ICPR)},
+  pages={1372--1377},
+  year={2018},
+  organization={IEEE}
+}

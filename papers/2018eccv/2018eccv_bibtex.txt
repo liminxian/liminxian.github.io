@@ -1,0 +1,7 @@
+@inproceedings{li2018unsupervised,
+  title={Unsupervised person re-identification by deep learning tracklet association},
+  author={Li, Minxian and Zhu, Xiatian and Gong, Shaogang},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={737--753},
+  year={2018}
+}
