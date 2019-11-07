@@ -1,9 +1,0 @@
-@article{li2018person,
-  title={Person re-identification with activity prediction based on hierarchical spatial-temporal model},
-  author={Li, Minxian and Shen, Fumin and Wang, Jingya and Guan, Chao and Tang, Jinhui},
-  journal={Neurocomputing},
-  volume={275},
-  pages={1200--1207},
-  year={2018},
-  publisher={Elsevier}
-}
